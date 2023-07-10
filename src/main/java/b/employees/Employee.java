@@ -1,4 +1,4 @@
-package employees;
+package b.employees;
 
 public class Employee {
     String name;

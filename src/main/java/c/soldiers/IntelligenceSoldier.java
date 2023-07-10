@@ -1,4 +1,4 @@
-package soldiers;
+package c.soldiers;
 
 public class IntelligenceSoldier extends Soldier{
     @Override

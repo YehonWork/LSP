@@ -1,4 +1,4 @@
-package soldiers;
+package c.soldiers;
 
 public class ResearchSoldier extends IntelligenceSoldier{
     public void research() {}

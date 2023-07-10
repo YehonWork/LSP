@@ -1,4 +1,4 @@
-package birds;
+package a.birds;
 
 public class Penguin extends Bird{
 }
